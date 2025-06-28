@@ -10,12 +10,12 @@ NORMALIZACION
 Las iniciales ISO son el acrónimo de International Organization for Standardization, y sus orígenes se remontan 1946, como unión de otros organismos que existían previamente y cuyo objetivo era la regulación y establecimiento de estándares para la fabricación (International Federation of National Standarzing – ISA y la United Nations Standards Coordinating Committee -UNSCC) a la reunión inicial, que tuvo lugar en el Instituto de Ingenieros Civiles de  Londres, asistieron 64 delegados en representación de 25 países.*
 
 ## 🔑 Palabras clave
-*(Escriba aquí cinco palabras clave separadas por comas y en orden alfabético. Ejemplo: aprendizaje virtual, dinamico, , heramientas virtuales)*
+calidad, gestión de riesgos, mejora continua, normalización, seguridad de la información
 
 ---
 
 ## 🎯 Introducción
-*(escribir una introducion )*
+Las normas ISO permiten a las organizaciones implementar sistemas de gestión eficientes, seguros y de calidad reconocida internacionalmente. Esta comparativa se enfoca en tres normas ampliamente utilizadas: ISO 9001 (calidad), ISO 27001 (seguridad de la información) y ISO 45001 (seguridad y salud ocupacional), analizando sus características, ventajas y desafíos.
 
 ---
 
@@ -57,24 +57,21 @@ Norma internacional de gestión de calidad, aplicable a cualquier organización.
 
 ## 📊 Cuadro comparativo (Opcional)
 
-| ISO        | ORGANISMO REGULA | año creacion   |                      FUNCION                    |  ESTRUCTURA|
-|------------|-----------      -|----------------|-------------------------------------------------|----------  |
-| iso 9001   |       ISO        |      1987      |      Establecer requisitos para un Sistema      |            |
-|            |                  |                |       de Gestión de la Calidad (QMS)            |            |
-| iso 27001  |   ISO and IEC    |      2005      |                                                 |            |
-|            |                  |                |       de Gestión de la Calidad (QMS)            |            |
-| iso 45001  |       ISO        |      2018      |                                                 |            |
-|            |                  |                |       de Gestión de la Calidad (QMS)            |            |
+| ISO       | ORG. REGULADOR | Año | Función                                        | Estructura                         |
+|-----------|----------------|------|------------------------------------------------|------------------------------------|
+| ISO 9001  | ISO            | 1987 | Gestión de la calidad                          | Annex SL (cláusulas 1–10, PDCA)    |
+| ISO 27001 | ISO/IEC        | 2005 | Seguridad de la información                    | Annex SL + Anexo A (controles)     |
+| ISO 45001 | ISO (TC 283)   | 2018 | Seguridad y salud en el trabajo                | Annex SL (cláusulas 1–10)          |
+
 
 ---
 
 ## 🧠 Conclusión
-*( escribir conclucion.)*
+Las normas ISO 9001, 27001 y 45001 aportan herramientas clave para mejorar la calidad, proteger la información y garantizar la seguridad laboral. Aunque su implementación puede suponer inversiones importantes y cambios internos, los beneficios a largo plazo en eficiencia, confianza y cumplimiento legal justifican su adopción.
 
 ---
 
 ## 📚 Referencias
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
 
-> Ejemplo:   
-> Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
+Kelmac Group. (2023, octubre 13). Benefits of SWOT Analysis in ISO 45001. https://www.kelmacgroup.com/news-articles/benefits-of-swot-analysis-in-iso-45001
+CTMA Consultores. (2021, diciembre 13). Estas son las ventajas y desventajas de la ISO 27001. https://ctmaconsultores.com/ventajas-y-desventajas-de-la-iso-27001/
